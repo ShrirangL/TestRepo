@@ -1,7 +1,7 @@
 // file: main.c
 #include <stdio.h>
 
-int main() {
+int main(int argc, char* argv[]) {
     //Dummy comment changed
     printf("Dummy C program");
     //new comment added by user 1
