@@ -3,6 +3,6 @@
 
 int main() {
     //Dummy comment changed
-    printf("Dummy C code");
+    printf("Dummy C program");
     return 0;
 }
